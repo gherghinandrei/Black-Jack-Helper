@@ -1,0 +1,21 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Black-Jack-Helper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Black-Jack-Helper"
+  },
+  "keywords": [
+    "BlackJack"
+  ],
+  "author": "Andrei Gherghin & Daniel Vaida",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
